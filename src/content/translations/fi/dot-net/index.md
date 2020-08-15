@@ -79,7 +79,7 @@ Tarvitsetko perusteellisempaa aloitusta? Katso [ethereum.org/fi/learn](/learn/) 
 - [eth-utils](https://github.com/ethereum/eth-utils/) - *hyötyfunktioita Etherumiin liittyvien koodipohjien kanssa työskentelyyn*
 - [TestChains](https://github.com/Nethereum/TestChains) - *Valmiiksi määritellyt .NET-kehitysketjut nopeisiin vasteisiin (PoA)*
 
-Etsitkö lisää resursseja? Katso [ethereum.org/fi/developers](/developers/).
+Etsitkö lisää resursseja? Katso [ethereum.org/fi/developers](/fi/developers/).
 
 ## .NET-yhteisön osallistujat {#dot-net-community-contributors}
 

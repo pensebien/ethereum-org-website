@@ -18,7 +18,7 @@ Käytä Ethereumia luodaksesi hajautettuja sovelluksia (decentralized applicatio
 
 **Näin pääset alkuun Go integroimisessa Ethereumiin**
 
-Tarvitsetko perusteellisempaa aloitusta? Katso [ethereum.org/fi/learn](/learn/) tai [ethereum.org/fi/developers](/developers/).
+Tarvitsetko perusteellisempaa aloitusta? Katso [ethereum.org/fi/learn](/fi/learn/) tai [ethereum.org/fi/developers](/fi/developers/).
 
 - [Lohkoketjut selitettynä](https://kauri.io/article/d55684513211466da7f8cc03987607d5/blockchain-explained)
 - [Älysopimusten ymmärtäminen](https://kauri.io/article/e4f66c6079e74a4a9b532148d3158188/ethereum-101-part-5-the-smart-contract)
@@ -69,7 +69,7 @@ Tarvitsetko perusteellisempaa aloitusta? Katso [ethereum.org/fi/learn](/learn/) 
 
 
 
-Etsitkö muita resursseja? Katso [ethereum.org/fi/developers](/developers/)
+Etsitkö muita resursseja? Katso [ethereum.org/fi/developers](/fi/developers/)
 
 ## Go-yhteisön osallistujat {#go-community-contributors}
 

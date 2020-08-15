@@ -8,7 +8,7 @@ sidebarDepth: 1
 
 # Opi Ethereumista {#learn-about-ethereum}
 
-**Tervetuloa ethereum.org/learn -sivulle - kokoelmaan resursseja, jotka auttavat sinua oppimaan lisää Ethereumista.** Tämä sivu sisältää teknisiä **ja** ei-teknisiä artikkeleja, ohjeita ja resursseja. Jos olet täysin uusi Ethereumiin, [suosittelemme aloittamaan täältä](/beginners/).
+**Tervetuloa ethereum.org/learn -sivulle - kokoelmaan resursseja, jotka auttavat sinua oppimaan lisää Ethereumista.** Tämä sivu sisältää teknisiä **ja** ei-teknisiä artikkeleja, ohjeita ja resursseja. Jos olet täysin uusi Ethereumiin, [suosittelemme aloittamaan täältä](/fi/beginners/).
 
 Tässä on muutamia loistavia aloitusmateriaaleja (englanniksi):
 
@@ -54,7 +54,7 @@ Korkeatasoisia englanninkielisiä artikkeleita Ethereumista ja lohkoketjuteknolo
 
 "Älysopimus" on yksinkertaisuudessaan koodinpätkä, joka suoritetaan Ethereumissa. Sitä kutsutaan "sopimukseksi", koska koodi, joka suoritetaan Ethereumissa, voi ohjata arvokkaita asioita, kuten ETH:iä tai muita digitaalisia varoja.
 
-- Haluatko oppia ohjelmoimaan älysopimuksia Ethereumilla? [ethereum.org/fi/developers](/developers/)
+- Haluatko oppia ohjelmoimaan älysopimuksia Ethereumilla? [ethereum.org/fi/developers](/fi/developers/)
 - [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
 - [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Päivitetään usein - Ethhub*
 
@@ -71,14 +71,14 @@ ETH 2.0 -versiossa Ethereum tulee siirtymään toiseen menetelmään nimeltä "P
 
 Ethereum-tietoverkko on rakennettu useista solmuista, joissa suoritetaan niille yhteensopivia asiakasohjelmistoja. Kahta asiakasohjelmaa käytetään suurimmassa osassa solmuista: [Geth](https://geth.ethereum.org/) (kirjoitettu Golla) ja [Parity](https://www.parity.io/ethereum/) (kirjoitettu Rustilla).
 
-- Haluatko oppia kuinka ajaa itse luomaasi solmua? → [ethereum.org/fi/developers](/developers/#clients-running-your-own-node)
+- Haluatko oppia kuinka ajaa itse luomaasi solmua? → [ethereum.org/fi/developers](/fi/developers/#clients-running-your-own-node)
 - [Kattava lista kaikista Ethereum-asiakasohjelmista](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
 ## Ethereum yrityksille {#enterprise-ethereum}
 
 Enterprise Ethereum viittaa yksityis-, yhteistyö- ja hybriditoteutuksiin Ethereumin-koodipohjasta liiketoimintasovelluksia varten. Yritykset ympäri maailmaa käyttävät jo nyt Enterprise Ethereumia taloudellisten markkinoiden tehostamiseen, toimitusketjujen hallnitaan ja uusien liiketoimintamallien luomiseen.
 
-Lue lisää aiheesta [Ethereum yrityksille](/enterprise).
+Lue lisää aiheesta [Ethereum yrityksille](/fi/enterprise).
 
 ## Ethereumin skaalattavuuden parantaminen {#improving-ethereums-scalability}
 

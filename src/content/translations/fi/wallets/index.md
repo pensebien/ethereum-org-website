@@ -14,7 +14,7 @@ lang: fi
 
 ## Mikä on Ethereum-lompakko, ja mitä niistä minun tulisi käyttää? {#what-is-an-ethereum-wallet-and-which-one-should-i-use}
 
-Lompakot ovat sovelluksia, jotka tekevät [ETH:n](/eth/) omistamisen ja lähettämisen helpoksi. Ne toimivat myös [Ethereumiin rakennettujen sovellusten kanssa](/dapps/).
+Lompakot ovat sovelluksia, jotka tekevät [ETH:n](/eth/) omistamisen ja lähettämisen helpoksi. Ne toimivat myös [Ethereumiin rakennettujen sovellusten kanssa](/fi/dapps/).
 
 Haluatko asentaa lompakon?
 

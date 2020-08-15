@@ -14,7 +14,7 @@ lang: fi
 
 ## Mikä on ETH ja kuinka saan sitä? {#what-is-eth-and-how-do-i-get-it}
 
-Ether, tai ETH, on Ethereumin natiivi valuutta. Se on "digitaalinen valuutta", jota voidaan lähettää internetissä välittömästi ja edullisesti. Lisäksi sitä käytetään monissa [Ethereumiin pohjautuvissa sovelluksissa](/dapps/).
+Ether, tai ETH, on Ethereumin natiivi valuutta. Se on "digitaalinen valuutta", jota voidaan lähettää internetissä välittömästi ja edullisesti. Lisäksi sitä käytetään monissa [Ethereumiin pohjautuvissa sovelluksissa](/fi/dapps/).
 
 Helpoin tapa saada ETH:iä on ostaa sitä. ETH:iä voi ostaa monista eri kryptovaluuttapörsseistä. Se, mistä sinun kannattaa ostaa, riippuu siitä, missä asut ja miten haluat maksaa.
 

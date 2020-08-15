@@ -14,9 +14,9 @@ sidebarDepth: 2
 
 **Jos olet uusi Ethereum-kehittäjä, olet oikeassa paikassa!** Näillä Ethereumin yhteisön kirjoittamilla ohjeilla pääset tutustumaan Ethereumin pinoon ja pääkäsitteisiin, jotka saattavat olla erilaisia muusta tuntemastasi sovelluskehityksestä.
 
-Haluatko aloittaa koodaamisen heti? [Aloita rakentaminen täältä](/build/).
+Haluatko aloittaa koodaamisen heti? [Aloita rakentaminen täältä](/fi/build/).
 
-Tarvitsetko perusteellisempaa aloitusta? Katso [oppimisresurssit](/learn/).
+Tarvitsetko perusteellisempaa aloitusta? Katso [oppimisresurssit](/fi/learn/).
 
 **Hyödyllisiä resursseja englanniksi**
 
@@ -55,12 +55,12 @@ Mitä tahansa ohjelmaa, joka suoritetaan Ethereum Virtual Machine (EVM) -ympäri
 
 Rakennamme kielikohtaisia aloitussivuja kehittäjille opettamaan lisää Ethereumista useilla suosituilla ohjelmointikielillä.
 
-- [Ethereum Java-kehittäjille](/java/)
-- [Ethereum Python-kehittäjille](/python/)
-- [Ethereum JavaScript-kehittäjille](/javascript/)
-- [Ethereum Go-kehittäjille](/golang/)
-- [Ethereum Rust-kehittäjille](/rust/)
-- [Ethereum .NET-kehittäjille](/dot-net/)
+- [Ethereum Java-kehittäjille](/fi/java/)
+- [Ethereum Python-kehittäjille](/fi/python/)
+- [Ethereum JavaScript-kehittäjille](/fi/javascript/)
+- [Ethereum Go-kehittäjille](/fi/golang/)
+- [Ethereum Rust-kehittäjille](/fi/rust/)
+- [Ethereum .NET-kehittäjille](/fi/dot-net/)
 - Lisää tulossa pian! Etkö näe suosikkikieltäsi täällä? [Avaa ongelma](https://github.com/ethereum/ethereum-org-website/issues/new/choose)!
 
 ## Kehitystyökalut {#developer-tools}

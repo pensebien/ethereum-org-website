@@ -28,13 +28,13 @@ Onko Ethereum sinulle uusi? Olet oikeassa paikassa. Aloitetaan laajemmasta kuvas
 
 **Kuten muilla lohkoketjuilla, Ethereumilla on natiivi kryptovaluutta nimeltään Ether (ETH).** ETH on digitaalinen valuutta. Jos olet kuullut [Bitcoinista](http://bitcoin.org/), ETH:llä on paljon samoja ominaisuuksia. Se on täysin digitaalinen ja sitä voidaan lähettää välittömästi kelle tahansa ja minne tahansa päin maailmaa. Mikään hallitus tai yritys ei ohjaa ETH:in tarjonnan määrää - se on desentralisoitu ja se on niukkaa. Ihmiset ympäri maailmaa käyttävät ETH:iä maksutapana tai säilöäkseen omaisuutensa, tai molempina.
 
-**Toisin kuin muut lohkoketjut, Ethereum voi tehdä paljon muuta.** Ethereum on ohjelmoitavissa, mikä tarkoittaa sitä, että kehittäjät voivat käyttää sitä [uudentyyppisten sovellusten rakentamiseen](/dapps/).
+**Toisin kuin muut lohkoketjut, Ethereum voi tehdä paljon muuta.** Ethereum on ohjelmoitavissa, mikä tarkoittaa sitä, että kehittäjät voivat käyttää sitä [uudentyyppisten sovellusten rakentamiseen](/fi/dapps/).
 
 Nämä desentralisoidut sovellukset (decentralized applications, "dapps") hyödyntävät kryptovaluuttaa ja lohkoketjuteknologiaa. Sovellukset ovat luotettavia, koska Ethereumin lohkoketjussa ne ajetaan aina kuten ne on ohjelmoitu. Niillä voidaan ohjata digitaalisia varoja ja luoda uudenlaisia taloudellisia sovelluksia. Sovellukset ovat hajautettuja eli mikään yksittäinen kokonaisuus tai ihminen ei ohjaa niitä.
 
 **Tällä hetkellä tuhannet kehittäjät ympäri maailmaa rakentavat sovelluksia Ethereumilla ja kehittävät uudentyyppisiä sovelluksia. Useat näistä ovat käytettävissä jo tänään:**
 
-- [**Kryptovaluuttalompakot**](/wallets/), jotka mahdollistavat edulliset, välittömät maksut ETH:llä tai muulla varalla
+- [**Kryptovaluuttalompakot**](/fi/wallets/), jotka mahdollistavat edulliset, välittömät maksut ETH:llä tai muulla varalla
 - **Taloudelliset sovellukset**, jotka mahdollistavat digitaalisten varojen lainaamisen tai sijoittamisen
 - **Desentralisoidut markkinat**, jotka mahdollistavat digitaalisten varojen kaupankäynnin tai jopa vedonlyönnin tosimaailman tapahtumista
 - **Pelejä**, joissa omistat pelinsisäisiä varoja ja voit tehdä myös oikeaa rahaa
@@ -48,6 +48,6 @@ Nämä desentralisoidut sovellukset (decentralized applications, "dapps") hyödy
 
 **Etkö ole varma mistä jatkaa?**
 
-- Haluatko aloittaa Ethereumin käytön? [ethereum.org/dapps](/dapps/)
-- Oletko kiinnostunut oppimaan lisää Ethereumista ja sen teknologiasta? [ethereum.org/fi/learn](/learn/)
-- Oletko kehittäjä, joka on kiinnostunut työskentelemään Ethereumilla? [ethereum.org/fi/developers](/developers/)
+- Haluatko aloittaa Ethereumin käytön? [ethereum.org/dapps](/fi/dapps/)
+- Oletko kiinnostunut oppimaan lisää Ethereumista ja sen teknologiasta? [ethereum.org/fi/learn](/fi/learn/)
+- Oletko kehittäjä, joka on kiinnostunut työskentelemään Ethereumilla? [ethereum.org/fi/developers](/fi/developers/)
